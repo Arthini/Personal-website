@@ -355,6 +355,15 @@ font-weight: bold;
   font-family: Kaushan Script;
 
 }
+.s1 p{
+  width: 95%;
+  height:100px;
+  text-align: justify;
+  font-size: 25px;
+  line-height: 2;
+  font-family: Kaushan Script;
+
+}
 /************************************************/
 .s2{
   background-color: #35A29F;
