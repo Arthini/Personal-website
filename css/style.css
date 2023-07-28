@@ -356,13 +356,12 @@ font-weight: bold;
 
 }
 .s1 p{
-  width: 95%;
-  height:100px;
   text-align: justify;
   font-size: 25px;
   line-height: 2;
   font-family: Kaushan Script;
-
+  width: 95%;
+  height:100px;
 }
 /************************************************/
 .s2{
