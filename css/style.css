@@ -1,0 +1,513 @@
+html{
+  scroll-behavior: smooth;
+}
+body  {
+
+    /* text-align: center; */
+    color: white;
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 30px auto auto 30px;
+}
+
+.top-container table{
+width: auto;
+color: white;
+margin-left: auto;
+margin-right: 0px;
+border-spacing: 50px;
+margin-bottom: 120px;
+
+}
+.top-container a{
+  color:white;
+  font-size: 20px;
+  font-family: Monoton;
+  text-decoration:none;
+}
+a:hover{
+  color: red;
+}
+.top-container h1{
+  margin: 0px;
+  font-family: "Sacramento",serif;
+  font-size: 100px;
+  margin-bottom: 20px;
+  text-shadow: 5px 6px #27374D;
+}
+.top-container{
+  text-align: center;
+  margin-bottom: 400px;
+}
+
+h2{
+  font-family: "Montserrat",sans-serif;
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+h3{
+
+  color:white;
+    margin:0;
+  font-family: "Montserrat",sans-serif;
+  font-size: 40px;
+  text-shadow: 4px 5px #27374D;
+}
+
+.middle-container{
+  margin-top: 400px;
+  /* margin-bottom: 200px; */
+  font-size: 25px;
+  }
+  .middle-container p{
+    font-family:Exo;
+    line-height:2;
+    text-align: justify;
+    scroll-behavior: smooth;
+  }
+
+.middle-container img{
+  width: 340px;
+  height: 340px;
+  float: left;
+  margin: 0px 25px 0 0;
+  margin-left: 25px;
+}
+.space{
+  margin: 100px auto 200px auto;
+}
+
+
+
+.bottom-container h1{
+margin-bottom: 30px;
+  text-align: center;
+  font-size:50px;
+  font-family: Monoton;
+}
+.bottom-container table{
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 70px;
+}
+.bottom-container p{
+  text-align: center;margin-left: 10px;
+}
+/****************************************************************************************************/
+
+/* SKILL SECTION */
+
+.Skills  a img{
+  width: 200px;
+  height: 200px;
+  margin-left: 150px;
+  margin-right: 100px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  /* float: left; */
+  /* transition: transform .2s; */
+}
+.Skills h1{
+  margin-top: 100px;
+  font-size: 70px;
+  text-align: center;
+font-family: Fredericka The Great;
+
+}
+.Skills table{
+
+  margin-left: 300px;
+  margin-right: 300px;
+  /* padding-left: 100px; */
+
+}
+ .Skills img:hover{
+  transform: scale(1.5);
+  /* -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5); */
+  color: red;
+}
+.tech img{
+  width: 150px;
+  height: 150px;
+  margin: 100px auto 100px 150px;
+  display: -inline-grid;
+  float: left;
+
+}
+.tech h1{
+  font-size: 70px;
+  text-align: center;
+  font-family:Merriweather;
+}
+.tech img:hover{
+ transform: scale(1.5);
+}
+.soft{
+  height: 800px;
+}
+.soft img{
+  width: 150px;
+  height: 150px;
+  margin: 100px auto auto 200px;
+  display: -inline-grid;
+  float: left;
+  margin-top: 100px;
+
+}
+.soft h1{
+  margin-top: 500px;
+  font-size: 70px;
+  text-align: center;
+  font-family:Merriweather;
+}
+.soft img:hover{
+ transform: scale(1.5);
+}
+.part img{
+  margin;auto 100px auto 400px;
+  margin-left: 400px;
+}
+.up{
+  width:100%;
+  height:100px;
+}
+.up a {
+  width: 50px;
+  height: 50px;
+  color:white;
+  float:right;
+  size:200px;
+  background-color: green;
+  border-radius: 4px;
+  margin-right: 100px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 22px;
+}
+/***********************************************************************************************************/
+
+.Resume img{
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+
+}
+.Resume h1{
+  text-align: center;
+  font-family: Tilt Prism;
+  margin-bottom: 100px;
+  font-size: 50px;
+}
+.sp1{
+  margin-top: 50px;
+  width: 100%;
+  height: 100px;
+}
+ /*********************************************************************************************/
+
+.start h1{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align:center;
+  font-family: tilt Prism;
+  font-size: 45px;
+}
+.images{
+  text-align: center;
+}
+ .images img{
+   width: 40%;
+   height: 500px;
+   margin-left: 70px;
+   margin-bottom: 20px;
+
+
+ }
+ /**************************************************************************/
+ .project{
+
+   text-align:center;
+
+
+ }
+.project h1{
+  text-align: center;
+  margin-top: 70px;
+  font-family: Tilt Prism;
+  font-size: 50px;
+  /* margin-bottom: 50px; */
+
+
+}
+.project h2{
+  margin-top: 80px;
+word-spacing: 5px;
+font-family: Tilt Prism;
+  font-size: 35px;
+
+
+
+}
+.project3 h2{
+  margin-top: 80px;
+word-spacing: 5px;
+font-family: Tilt Prism;
+  font-size: 35px;
+text-align: center;
+padding-right: 250px;
+
+
+
+}
+.project3 p{
+  margin: auto;
+text-align: justify;
+  line-height: 2;
+  width:75%;
+  height: 200px;
+  font-size: 25px;
+  margin-bottom: 300px;
+  font-family:Merriweather;
+}
+.project p{
+  margin: auto;
+text-align: justify;
+  line-height: 2;
+  width:75%;
+  height: 200px;
+  font-size: 25px;
+  margin-bottom: 300px;
+  font-family:Merriweather;
+}
+span{
+  color:yellow;
+}
+button{
+  float: right;
+  margin-right: 100px;
+  cursor: pointer;
+  color: green;
+  font-weight: bold;
+  border:none;
+  font-size:30px;
+  width:150px;
+  height: 30px;
+  background-color:transparent;
+  font-family:Tilt Prism;
+}
+.back button{
+  float: left;
+  cursor: pointer;
+    color: green;
+font-weight: bold;
+    border:none;
+    font-size:30px;
+    width:150px;
+    height: 30px;
+    background-color:transparent;
+    font-family:tilt Prism;
+
+    margin-left: 100px;
+}
+
+.project1 h2{
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 100px;
+  font-family: Kaushan Script;
+  font-size: 38px;
+  word-spacing: 5px;
+
+
+}
+.project1{
+  text-align: center;
+}
+.s1{
+  background-color: #0B666A;
+  height:230px;
+}
+.s1 img{
+  width: 300px;
+  height: 200px;
+  float: left;
+  margin: 10px 50px;
+  border-color: white;
+  border:5px solid;
+
+}
+
+}
+.s1 p{
+  width: 95%;
+  height:100px;
+  text-align: justify;
+  font-size: 25px;
+  line-height: 2;
+  font-family: Kaushan Script;
+
+}
+/************************************************/
+.s2{
+  background-color: #35A29F;
+  height:230px;
+}
+.s2 img{
+  width: 300px;
+  height: 200px;
+  float: right;
+  margin: 10px 50px;
+  border-color: white;
+  border:5px solid;
+
+}
+.s2 p{
+  width: 80%;
+  height:100px;
+  text-align: justify;
+  font-size: 25px;
+  line-height: 2;
+  margin-left: 50px;
+    font-family: Kaushan Script;
+}
+/****************************************************/
+.s3{
+  background-color: #164B60;
+  height:230px;
+  margin-bottom: 50px;
+}
+.s3 img{
+  width: 300px;
+  height: 200px;
+  float: left;
+  margin: 10px 50px;
+  border-color: white;
+  border:5px solid;
+
+
+}
+.s3 p{
+  width: 95%;
+  height:100px;
+  text-align: justify;
+  font-size: 25px;
+  line-height: 2;
+    font-family: Kaushan Script;
+
+}
+/****************************************************/
+.extra h2{
+  text-align: center;
+margin-top: 50px;
+  font-family: Kaushan Script;
+  font-size: 38px;
+}
+.extra p{
+  /* margin: 50px 20px 100px 40px; */
+  margin:auto;
+  margin-bottom: 200px;
+  text-align: justify;
+  font-size: 25px;
+  line-height: 2;
+  width:75%;
+  height: 200px;
+  font-family: Merriweather;
+}
+/******************************************************/
+.additional {
+  margin-top: 50px;
+  text-align: center;
+}
+.additional h2{
+  font-family: Kaushan Script;
+  font-size: 38px;
+}
+.additional img{
+  width: 50%;
+  height:40%;
+  margin: auto;
+  margin-bottom: 70px;
+}
+.additional p{
+  width: 70%;
+  height: 50px;
+  margin: auto;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  font-family: Merriweather;
+}
+/**********************************************/
+.adv img{
+  width: 80%;
+  height: 50%;
+
+}.adv{
+  text-align: center;
+}
+hr{
+border: dotted #EAB2A0 15px;
+border-bottom: none;
+width: 6%;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+/*****************************************************/
+.archi img{
+  width: 80%;
+  height: 30%;
+
+float: center;
+}
+.archi{
+  text-align: center;
+}
+.archi h1{
+  /* font-size: 20px; */
+  margin-bottom: 100px;
+  font-family: Kaushan Script;
+  font-size: 38px;
+
+}
+/***************************************************************/
+.emp img{
+  width: 80%;
+  height: 30%;
+
+/* float: center; */
+}
+.emp{
+  text-align: center;
+}
+.emp h1{
+  /* font-size: 20px; */
+  margin-bottom: 100px;
+  font-family: Kaushan Script;
+  font-size: 38px;
+
+}
+/**************************************************/
+.adv img{
+  width: 80%;
+  height: 10%;
+
+/* float: center; */
+}
+.adv{
+  text-align: center;
+}
+.adv h1{
+  /* font-size: 20px; */
+  margin-bottom: 50px;
+  font-family: Kaushan Script;
+  font-size: 38px;
+
+}
