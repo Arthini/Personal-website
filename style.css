@@ -23,7 +23,7 @@ header {
 }
 
 .navbar-brand{ /* logo */
-    padding-left: 7rem;
+    padding:0 7%;
     font-style: italic;
 }
 
@@ -47,6 +47,10 @@ header {
     color: black;
 
   } 
+.navbar-toggler{
+    outline:3px solid white;
+    width: 100px;
+}
 
 /* About */
 
